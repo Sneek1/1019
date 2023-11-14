@@ -1,0 +1,2 @@
+Letter count: 157
+Number count: 6
